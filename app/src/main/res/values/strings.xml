@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Farbe</string>
+    <string name="title" translatable="true">Atencion</string>
+    <string name="message" translatable="true">La presicion de Farbe dependera de la luz del ambiente y la calidad de la camara.</string>
+    <string name="negative" translatable="true">No volver a mostrar</string>
+    <string name="positive" translatable="true">Entiendo</string>
+
+    <string name="title_activity_color_palettes">ColorPalettesActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
